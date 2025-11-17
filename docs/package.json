@@ -20,6 +20,6 @@
     "vuepress-plugin-redirect": "^2.0.0-beta.120"
   },
   "dependencies": {
-    "anywhere": "^1.6.0"
+    "anywhere": "^1.7.0"
   }
 }
